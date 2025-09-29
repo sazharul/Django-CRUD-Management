@@ -1,4 +1,4 @@
-# Django Role Management API
+# Django Role Management API & CRUD with Basic Authentication
 
 This project is a Django-based web application that allows managing categories, subcategories, brands, and products with **Basic Authentication** enabled for API access. It also includes a Django Admin Panel to manage the data.
 
