@@ -36,7 +36,7 @@ This project is a Django-based web application that allows managing categories, 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/role_management.git
+    git clone https://github.com/sazharul/Django-CRUD-Management.git
     cd role_management
     ```
 
